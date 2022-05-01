@@ -3,6 +3,10 @@ body {
   color: #DDDDDD;
 }
 
+.heading {
+  width: 85%;
+}
+
 h1 {
   font-family: 'Merriweather', serif;
 }
